@@ -1,1 +1,98 @@
-/home/chris/.config/termite/config
+[options]
+font = CPMono_v07 Plain 9
+#font = Lazenby Computer 10
+audible_bell = false
+mouse_autohide = false
+allow_bold = false
+dynamic_title = true
+clickable_url = true
+scrollback_lines = 1000
+search_wrap = true
+cursor_blink = system
+browser = firefox
+dynamic_title = true
+
+## zenburn
+#[colors]
+
+## special
+#foreground      = #dcdccc
+#foreground_bold = #dcdccc
+#cursor          = #dcdccc
+##background      = #3a3a3a
+#background	= rgba(58, 58, 58, 0)
+
+## black
+#color0  = #3a3a3a
+#color8  = #7f9f7f
+
+## red
+#color1  = #cc9393
+#color9  = #d78787
+
+## green
+#color2  = #7f9f7f
+#color10 = #bfebbf
+
+## yellow
+#color3  = #d0bf8f
+#color11 = #f0dfaf
+
+## blue
+#color4  = #6ca0a3
+#color12 = #8cd0d3
+
+## magenta
+#color5  = #dc8cc3
+#color13 = #dc8cc3
+
+## cyan
+#color6  = #93e0e3
+#color14 = #93e0e3
+
+## white
+#color7  = #dcdccc
+#color15 = #ffffff
+
+# neonwave
+
+[colors]
+
+# special
+foreground      = #8787FF
+foreground_bold = #8787FF
+cursor          = #8787FF
+background      = #1C1C1C
+#background	= rgba(28, 28, 28, 0.875)
+
+# black
+color0  = #1c1c1c
+color8  = #00d7ff
+
+# red
+color1  = #ff00ff
+color9  = #d700ff
+
+# green
+color2  = #00afaf
+color10 = #00afd7
+
+# yellow
+color3  = #0087ff
+color11 = #0087af
+
+# blue
+color4  = #5f5faf
+color12 = #5f5fff
+
+# magenta
+color5  = #d75fff
+color13 = #ff5fff
+
+# cyan
+color6  = #00afff
+color14 = #00d7ff
+
+# white
+color7  = #808080
+color15 = #ffffff
