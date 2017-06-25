@@ -1,0 +1,83 @@
+! Zenburn color-scheme
+URxvt*termName: rxvt-unicode-256color
+URxvt*loginShell: true
+! URxvt*background: #3f3f3f
+URxvt*background: #3a3a3a
+URxvt*foreground: #dcdccc
+!URxvt*cursorColor: #aaaaaa
+!URxvt*colorUL: #366060
+!URxvt*underlineColor: #dfaf8f
+URxvt*color0: #3a3a3a
+URxvt*color1: #cc9393
+URxvt*color2: #7f9f7f
+URxvt*color3: #d0bf8f
+URxvt*color4: #6ca0a3
+URxvt*color5: #dc8cc3
+URxvt*color6: #93e0e3
+URxvt*color7: #dcdccc
+URxvt*color8: #7f9f7f
+URxvt*color9: #d78787
+URxvt*color10: #bfebbf
+URxvt*color11: #f0dfaf
+URxvt*color12: #8cd0d3
+URxvt*color13: #dc8cc3
+URxvt*color14: #93e0e3
+URxvt*color15: #ffffff
+
+!URxvt*boldColors: true
+!URxvt*colorBD: white
+!URxvt*colorBDMode: true
+URxvt*scrollBar: false
+URxvt*urlLauncher: firefox
+!URxvt*letterSpace: 1
+URxvt*faceName: Office Code Pro
+
+URxvt*font: xft:Office Code Pro:style=Medium:size=10, \
+xft:Noto Emoji:size=10, \
+xft:Source Han Sans JP Medium:style=Medium:size=10, \
+xft:Source Code Pro for Powerline:style=Medium:size=10, \
+xft:Noto Naskh Arabic:style=Regular:size=10, \
+xft:FreeMono:style=Regular:size=10
+
+URxvt*boldFont:
+
+!URxvt*depth: 32
+
+!Xcursor.theme: Vanilla-DMZ-AA
+!Xcursor.theme: pixelfun3
+Xcursor.theme: Breeze_Hacked
+Xcursor.size: 48
+Xft.rgba: rgb
+Xft.antialias:  true
+Xft.hinting:    true
+Xft.hintstyle:  hintslight
+Xft.lcdfilter:  lcddefault
+
+!Xft.dpi: 192
+Xft.dpi: 168
+
+URxvt*internalBorder: 0
+
+!Termite*internalBorder: 0
+!xterm-termite*faceName: Office Code Pro
+!xterm-termite*font: xft:Office Code Pro:style=Medium:size=10
+
+
+
+!!Zenburn Rofi color theme
+!! State:           'bg',     'fg',     'bgalt',  'hlbg',   'hlfg'
+!rofi.color-normal: #3a3a3a,  #FFFFFF,  #3a3a3a,  #262626,  #ffdfaf
+!rofi.color-urgent: #262626,  #dc8cc3,  #3a3a3a,  #dcdccc,  #d0bf8f
+!rofi.color-active: #3a3a3a,  #93e0e3,  #3a3a3a,  #262626,  #8cd0d3
+!!                  'background', 'border'
+!rofi.color-window: #3a3a3a,      #262626
+
+!Neonwave Rofi color theme
+! State:           'bg',     'fg',     'bgalt',  'hlbg',   'hlfg'
+rofi.color-normal: #1c1c1c,  #00afaf,  #1c1c1c,  #121212,  #ff00ff
+rofi.color-urgent: #121212,  #d75fff,  #1c1c1c,  #808080,  #1c1c1c
+rofi.color-active: #121212,  #ff5fff,  #1c1c1c,  #121212,  #ff00ff
+!                  'background', 'border'
+rofi.color-window: #1c1c1c,      #808080
+
+
